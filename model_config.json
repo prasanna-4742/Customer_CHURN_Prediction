@@ -1,0 +1,5 @@
+{
+  "model_version": "1.0.0",
+  "decision_threshold": 0.5,
+  "model_path": "models/churn_model.joblib"
+}
